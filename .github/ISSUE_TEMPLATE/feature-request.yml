@@ -4,6 +4,7 @@ title: "feat: "
 labels:
   - enhancement
   - triage
+assignees: extremejs/maintainers
 body:
   - type: markdown
     attributes:
